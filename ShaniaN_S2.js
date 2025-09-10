@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(400, 400);
 
   //set background color to pink
 background(251, 198, 207);
