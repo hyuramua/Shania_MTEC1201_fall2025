@@ -1,11 +1,27 @@
 function setup() {
+<<<<<<< Updated upstream
   createCanvas(500, 500);
+=======
+  //you must include set up function to run code.
+  //only include ONE SET up function per sketch.
+  createCanvas(1000, 1000);
+  //sets size of canvas area with width and height.
+>>>>>>> Stashed changes
 
   //set background color to pink
 background(251, 198, 207);
 
+<<<<<<< Updated upstream
 //fill fur
 fill(212, 166, 119);
+=======
+  //drawing a line 
+  line( 0, 0, 0, 0);
+  //line function needs a starting point and ending point
+  //line (x1, y1, x2, y2)
+// draw a line from points (500, 50) to (10, 300)
+line( 0, 0, 0, 0); //x1,y1,x2,y2
+>>>>>>> Stashed changes
 
 strokeWeight(5);
 stroke(161, 117, 76);
